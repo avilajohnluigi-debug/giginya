@@ -12,12 +12,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 🤔 I’m looking for help with **[Specific Topic]**
-- 💬 Ask me about **React, Node.js, and TypeScript**
-- 📫 How to reach me: **[Your Email]**
+- 🔭 I’m currently working on **LuckyBoba POS System**
+- 🌱 I’m currently learning **ReactJS/TS**
+- 💬 Ask me about **React, Node.js, and TypeScript, Games**
+- 📫 How to reach me: **avilajohnluigi@gmail.com**
 
 ### 🚀 Tech Stack
 <div align="center">
@@ -26,7 +24,21 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true" />
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajohnluigi-debug&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <!-- Contribution Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilajohnluigi-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🐍 My GitHub Contributions
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
