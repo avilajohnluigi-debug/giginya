@@ -3,7 +3,7 @@
   It uses zero-setup hosted SVGs to create animations automatically.
 -->
 
-# Hi there! 👋 I'm [Luigi!]
+# Hi there! 👋 I'm John Luigi
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B2063&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Constantly+Learning+and+Building!" alt="Typing SVG" />
@@ -26,7 +26,12 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+### 🐍 My GitHub Contributions
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 ---
