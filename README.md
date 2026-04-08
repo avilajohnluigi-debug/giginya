@@ -34,6 +34,8 @@
   <img src="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
+![snake gif](https://github.com/avilajohnluigi-debug/avilajohnluigi-debug/blob/output/github-snake-dark.svg)
+
 ---
 <div align="center">
   <i>"Writing code that makes a difference."</i>
