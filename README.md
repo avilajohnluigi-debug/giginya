@@ -21,20 +21,13 @@
 
 ### 🚀 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind,git,docker" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,git,html,css,javascript" />
 </div>
 
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true" />
 </div>
-
-### 🐍 My GitHub Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/github-snake-dark.svg" alt="snake gif" />
-</div>
-
-![snake gif](https://github.com/avilajohnluigi-debug/avilajohnluigi-debug/blob/output/github-snake-dark.svg)
 
 ---
 <div align="center">
