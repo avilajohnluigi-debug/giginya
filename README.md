@@ -24,15 +24,20 @@
 
 ### 📈 GitHub Stats & Contributions
 <div align="center">
-  <!-- Main GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Live GitHub Contribution Graph / Green Squares -->
+  <img src="https://ghchart.rshah.org/avilajohnluigi-debug" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Live GitHub Contribution Graph / Green Squares -->
-  <img src="https://ghchart.rshah.org/avilajohnluigi-debug" alt="Contribution Graph" />
+  <!-- Hosted Pacman Animation Divider (Ready to use zero-setup) -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</div>
+
+<div align="center">
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
