@@ -6,7 +6,7 @@
 # Hi there! 👋 I'm John Luigi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B2063&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Constantly+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Constantly+Learning+and+Building!" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,23 +22,17 @@
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,git,html,css,javascript" />
 </div>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Contributions
 <div align="center">
   <!-- Main GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajohnluigi-debug&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <br/>
-  <!-- Contribution Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilajohnluigi-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<br/>
 
-### 🐍 My GitHub Contributions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/github-snake-dark.svg" alt="Snake animation" />
+  <!-- Live GitHub Contribution Graph / Green Squares -->
+  <img src="https://ghchart.rshah.org/avilajohnluigi-debug" alt="Contribution Graph" />
 </div>
 
 ---
